@@ -1,12 +1,17 @@
 [[plugin.deps]]
-use = "Reledia/glow"
-rev = "a1711f1"
-hash = "2540c4bcb855c39a413d6a0dcea07c06"
+use = "yazi-rs/plugins:git"
+rev = "b12a9ab"
+hash = "394cc54375e5638237043d23ad34d478"
 
 [[plugin.deps]]
 use = "yazi-rs/plugins:full-border"
 rev = "b12a9ab"
 hash = "6882ed11f8efed32c9de32c9d9222b57"
+
+[[plugin.deps]]
+use = "yazi-rs/plugins:smart-filter"
+rev = "b12a9ab"
+hash = "979899d87f80e306b5cb091b180a66aa"
 
 [[flavor.deps]]
 use = "yazi-rs/flavors:catppuccin-mocha"
